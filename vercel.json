@@ -11,6 +11,6 @@
     { "src": "/furqan", "dest": "/furqan.js" },
     { "src": "/kami", "dest": "/kami.js" },
     { "src": "/as", "dest": "/as.js" },
-    { "src": "/zubairpass", "dest": "/zubairpass.js" }
+    { "src": "/abd", "dest": "/abd.js" }
   ]
 }
