@@ -5,8 +5,8 @@
   ],
   "routes": [
     { "src": "/zubair", "dest": "/zubair.js" },
-    { "src": "/jan", "dest": "/jan.js" },
-    { "src": "/aman", "dest": "/aman.js" },
+    { "src": "/chumpa", "dest": "/chumpa.js" },
+    { "src": "/tufail", "dest": "/tufail.js" },
     { "src": "/ayan", "dest": "/ayan.js" },
     { "src": "/furqan", "dest": "/furqan.js" },
     { "src": "/kami", "dest": "/kami.js" },
