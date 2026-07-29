@@ -6,10 +6,10 @@
   "routes": [
     { "src": "/zubair", "dest": "/zubair.js" },
     { "src": "/chumpa", "dest": "/chumpa.js" },
-    { "src": "/tufail", "dest": "/tufail.js" },
-    { "src": "/ayan", "dest": "/ayan.js" },
-    { "src": "/furqan", "dest": "/furqan.js" },
-    { "src": "/kami", "dest": "/kami.js" },
+    { "src": "/sultan", "dest": "/sultan.js" },
+    { "src": "/gm", "dest": "/gm.js" },
+    { "src": "/fida", "dest": "/fida.js" },
+    { "src": "/hamid", "dest": "/hamid.js" },
     { "src": "/as", "dest": "/as.js" },
     { "src": "/abd", "dest": "/abd.js" }
   ]
